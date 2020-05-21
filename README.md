@@ -1,6 +1,6 @@
 # go-aws-whoami
 
-`pahud/aws-whoami` simple implementation in Go.
+[aws-whoami](https://github.com/pahud/aws-whoami) simple implementation in Go.
 
 # Usage
 
