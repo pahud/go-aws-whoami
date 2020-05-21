@@ -14,9 +14,13 @@ curl 0:8080/whoami
 
 <details>
 <summary> 👉Response </summary>
+
+```json
 {
   "Account": "112233445566",
   "Arn": "arn:aws:iam::112233445566:user/pahud",
   "UserId": "AIDAJVHX3XBRH4E4UGWWK"
 }
+```
+
 </details>
