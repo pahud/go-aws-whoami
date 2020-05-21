@@ -13,7 +13,7 @@ curl 0:8080/whoami
 ```
 
 <details>
-<summary> 👉Response </summary>
+<summary> 👉 Response </summary>
 
 ```json
 {
